@@ -10,5 +10,8 @@
 	<classpathentry kind="lib" path="C:/Users/llean/OneDrive/Área de Trabalho/challenge-one-alura-hotel-br/lib/jgoodies-common-1.2.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/llean/OneDrive/Área de Trabalho/challenge-one-alura-hotel-br/lib/jgoodies-looks-2.4.1.jar"/>
 	<classpathentry kind="lib" path="C:/Users/llean/OneDrive/Área de Trabalho/challenge-one-alura-hotel-br/lib/junit-4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/llean/OneDrive/Área de Trabalho/CRUD-Alura-Hotel-ONE-Alura_Challenge-master/c3p0-0.9.5.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/llean/OneDrive/Área de Trabalho/CRUD-Alura-Hotel-ONE-Alura_Challenge-master/mchange-commons-java-0.2.20.jar"/>
+	<classpathentry kind="lib" path="C:/Users/llean/OneDrive/Área de Trabalho/CRUD-Alura-Hotel-ONE-Alura_Challenge-master/mysql-connector-java-8.0.29.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
